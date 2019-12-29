@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1056068106440",
+    "firebase_url": "https://cos-phi-meter.firebaseio.com",
+    "project_id": "cos-phi-meter",
+    "storage_bucket": "cos-phi-meter.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1056068106440:android:6f45606e418c05400a8dfd",
+        "android_client_info": {
+          "package_name": "com.example.powerfactormeter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1056068106440-mmtt5pkfap14jsc78ci5qrm73umqv9ds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.powerfactormeter",
+            "certificate_hash": "c11d32ede9614b195a245f2ab3245af000ec39ea"
+          }
+        },
+        {
+          "client_id": "1056068106440-boralbg0v4svidgkjdoe9r8bt4fl33ge.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBSqInf3CjpJbNkcMT8XDBbJjkr2CmQsrg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1056068106440-boralbg0v4svidgkjdoe9r8bt4fl33ge.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
